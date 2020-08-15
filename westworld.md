@@ -1,25 +1,25 @@
-# Westworld Episodes
+﻿# Westworld Episodes
 
-## 01 The Maze
-* 01 The Original
-* 02 Chestnut
-* 03 The Stray
-* 04 Dissonance Theory
-* 05 Contrapasso
-* 06 The Adversary
-* 07 Trompe L'Oeil
-* 08 Trace Decay
-* 09 The Well-Tempered Clavier
-* 10 The Bicameral Mind
+## 1 The Maze
+1 The Original
+2 Chestnut
+3 The Stray
+4 Dissonance Theory
+5 Contrapasso
+6 The Adversary
+7 Trompe L'Oeil
+8 Trace Decay
+9 The Well-Tempered Clavier
+0 The Bicameral Mind
 
-## 02 The Door
-* 01 Journey into Night
-* 02 Reunion
-* 03 Virtù e Fortuna
-* 04 The Riddle of the Sphinx
-* 05 Akane no Mai
-* 06 Phase Space
-* 07 Les Ecorches
-* 08 Kiksuya
-* 09 Vanishing Point
-* 10 The Passenger
+## 2 The Door
+1 Journey into Night
+2 Reunion
+3 Virtù e Fortuna
+4 The Riddle of the Sphinx
+5 Akane no Mai
+6 Phase Space
+7 Les Ecorches
+8 Kiksuya
+9 Vanishing Point
+0 The Passenger
